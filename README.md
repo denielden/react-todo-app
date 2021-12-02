@@ -10,7 +10,7 @@ My first React App with Local Storage state:
 
 Organize and optimize your day using the task list.
 
-![AppUI](app-ui.jpg)
+![AppUI](app-ui.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
