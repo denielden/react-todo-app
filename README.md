@@ -1,6 +1,7 @@
 # React-ToDo-app
 > My first React app!
-![React](build/logo512.png)
+
+![React](build/logo192.png)
 
 My first React App with Local Storage state:
 - Add tasks
@@ -13,10 +14,6 @@ Organize and optimize your day using the task list.
 ![AppUI](app-ui.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-## Use App
-[Use this app](denielden.github.io/react-todo-app)
 
 
 ## Structure of the project
