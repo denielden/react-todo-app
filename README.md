@@ -1,4 +1,4 @@
-# react-todo-app
+# React ToDo app
 > My first React app!
 
 <img src="src/logo.svg" alt="React" width="300"/>
